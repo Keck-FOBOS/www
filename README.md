@@ -4,7 +4,7 @@ Repository with source for [fobos.ucolick.org](https://fobos.ucolick.org/)
 
 ## Change log
 
-### dev
+### v1.0.2 (28 May 2020)
 
  - Added Univ. of Washington logo
  - Directory restructure
