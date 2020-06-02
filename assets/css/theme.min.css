@@ -4853,6 +4853,10 @@ body.search .no-results .search-form input[type=submit] { background-color: var(
 
 .text-white { color: #fff !important; }
 
+.bkg-opwhite {
+    background: rgba(0, 0, 0, 0.2) !important;
+  }
+
 .text-black { color: #000 !important; }
 
 .text-dark { color: #181b31 !important; }
